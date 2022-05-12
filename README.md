@@ -7,5 +7,6 @@ Dans le cadre du projet 6 je devais trouver les thèmes des questions afin de le
 * Réseau de neurones avec une couche d’embedding
 * Méthode moderne pour traiter ce problème : Les Transformers
 
+## Librairies utilisées
 * Transformers	Modèle en réseau de neurones très efficace dans le traitement du langage naturel	https://ledatascientist.com/a-la-decouverte-du-transformer/
 * T5	Librairie mettant en œuvre les Transformers	https://huggingface.co/docs/transformers/model_doc/t5
